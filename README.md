@@ -1,6 +1,6 @@
 # zipsoldatmaplist
 
-It depends maps.js, from urraka/pms-info and adm-zip.  
+It depends on maps.js, from urraka/pms-info and adm-zip.  
 https://github.com/urraka/pms-info  
 npm install adm-zip  
 Put it in the parent folder of the "maps" folder and run it using nodejs.  
