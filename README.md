@@ -13,7 +13,7 @@ After that it will ask the user the "process mode", 0 will zip the maps with its
   
 ## saving output
 On linux:  
-node processmaplist.js | tee myoutput.txt
+node processmaplist.js | tee myoutput.txt  
 or
 node processmaplist.js | tee -a myoutput.txt (it will append the output to this file instead of overwritting it)  
 Note: using > or >> will redirect the output to the file and the user won't be able to read the questions.
